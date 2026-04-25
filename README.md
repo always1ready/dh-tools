@@ -1,2 +1,23 @@
-# dh-tools
-Course materials for Digital Humanities research practices — HSE, Faculty of Humanities, 2026
+# DH Tools
+
+**Цифровые технологии в профессиональной деятельности**
+
+Репозиторий курса минидигри «Исследователь Digital Humanities», ФГН НИУ ВШЭ, 2026.
+
+📖 [Сайт курса](https://always1ready.github.io/dh-tools/)
+
+## О курсе
+
+Практический курс по цифровым методам в гуманитарных исследованиях. На большинстве занятий разбираем реальное DH-исследование, обсуждаем методологию и воспроизводим ключевые решения на Python. Курс рассчитан на студентов-историков, философов, культурологов.
+
+## Технологии
+
+Python 3.10+, Jupyter, pandas, matplotlib, scikit-learn, pymorphy3, razdel, NLTK, WordCloud.
+
+## Преподаватель
+
+**Кирилл Васильев** — [Telegram](https://t.me/always1ready) · kfvasilev@hse.ru
+
+## Лицензия
+
+Материалы курса доступны для образовательного использования.

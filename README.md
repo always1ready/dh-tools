@@ -17,4 +17,4 @@ Python 3.10+, Jupyter, pandas, matplotlib, scikit-learn, pymorphy3, razdel, NLTK
 
 ## Лицензия
 
-Материалы курса доступны для образовательного использования.
+Материалы курса доступны для использования по [лицензии](LICENSE).

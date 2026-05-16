@@ -2,7 +2,8 @@
 Репозиторий курса **«Цифровые технологии в профессиональной деятельности»** минидигри «Исследователь Digital Humanities», ФГН НИУ ВШЭ, 2026.
 
 📖 [Сайт курса](https://always1ready.github.io/dh-tools/)
-[Ведомость](https://docs.google.com/spreadsheets/d/1r0UY9qvdqbFJl7yIVJxvzA6fDhArwUjSczj9emu6JRc/edit?gid=0#gid=0)
+
+[Ведомость](https://docs.google.com/spreadsheets/d/1r0UY9qvdqbFJl7yIVJxvzA6fDhArwUjSczj9emu6JRc/edit?usp=sharing)
 
 ## О курсе
 

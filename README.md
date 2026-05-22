@@ -3,7 +3,7 @@
 
 📖 [Сайт курса](https://always1ready.github.io/dh-tools/)
 
-[Ведомость](https://docs.google.com/spreadsheets/d/1r0UY9qvdqbFJl7yIVJxvzA6fDhArwUjSczj9emu6JRc/edit?usp=sharing)
+📄 [Ведомость](https://docs.google.com/spreadsheets/d/1r0UY9qvdqbFJl7yIVJxvzA6fDhArwUjSczj9emu6JRc/edit?usp=sharing)
 
 ## О курсе
 
@@ -11,7 +11,7 @@
 
 ## Технологии
 
-Python 3.10+, Jupyter, pandas, matplotlib, scikit-learn, pymorphy3, razdel, NLTK, WordCloud.
+Python 3.10+, Jupyter, pandas, matplotlib, scikit-learn, pymorphy3, razdel, NLTK, WordCloud, folium.
 
 ## Преподаватель
 

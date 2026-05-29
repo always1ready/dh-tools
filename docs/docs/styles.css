@@ -1,0 +1,30 @@
+/* DH Tools — custom styles */
+
+.course-header {
+  margin-bottom: 1.5rem;
+  padding-bottom: 1rem;
+  border-bottom: 2px solid #e9ecef;
+}
+
+.badge-topic {
+  display: inline-block;
+  padding: 0.25em 0.6em;
+  font-size: 0.85em;
+  font-weight: 500;
+  border-radius: 4px;
+  background-color: #f0f0f0;
+  color: #333;
+  margin-right: 0.3em;
+}
+
+.session-card {
+  padding: 1rem 1.2rem;
+  margin-bottom: 1rem;
+  border-left: 4px solid #2c3e50;
+  background-color: #fafafa;
+  border-radius: 0 4px 4px 0;
+}
+
+.session-card h3 {
+  margin-top: 0;
+}
